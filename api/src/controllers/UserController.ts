@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { getCustomRepository } from "typeorm";
-import { UserRepository } from "../repositories/UserRepositories";
+import { UserRepository } from "../repositories/UserRepository";
 
 export class UserController{
     async create(request:Request, response:Response){
