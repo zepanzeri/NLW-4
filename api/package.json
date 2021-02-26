@@ -10,6 +10,7 @@
     "posttest": "rm -f ./src/database/database.test.sqlite"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "handlebars": "^4.7.7",
     "nodemailer": "^6.4.18",
