@@ -17,4 +17,4 @@ Mais informações sobre o evento https://nextlevelweek.com/inscricao/4
 - SqLite
 - TypeORM
 - Nodemailer
-- and many more...
+- Handlebars
