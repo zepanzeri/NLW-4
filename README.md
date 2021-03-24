@@ -10,7 +10,7 @@ Semana Next Level da Rocketseat. Imersão de 1 semana para aprender os fundament
 
 Mais informações sobre o evento https://nextlevelweek.com/inscricao/4
 
-### Techs used in this project
+### Most relevant techs used in this project
 - NodeJs
 - Express
 - Typescript
